@@ -1,5 +1,4 @@
-# Sample Python app for Azure Pipelines docs
-# Edited one
+# Sample Python app for Azure Pipelines doc
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
